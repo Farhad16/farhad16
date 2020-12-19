@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gO2e5P-fBqAbuQAbV8VWy9PH0HfEVmkG/view](https://drive.google.com/file/d/1gO2e5P-fBqAbuQAbV8VWy9PH0HfEVmkG/view)
 
-
+![Profile views](https://gpvc.arturio.dev/farhad16)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,4 +39,4 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=farhad16)  
 
-![Profile views](https://gpvc.arturio.dev/farhad16)  
+
