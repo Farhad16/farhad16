@@ -1,6 +1,8 @@
-### Hi there 👋, my name is Farhad
+### Hi there 👋, 
+<h3 align="left">My name is Md Farhad Hossain</h3>
 
-<h3 align="center">A passionate web developer</h3>
+
+<h3 align="left">A passionate web developer</h3>
 
 - 🔭 I’m currently working on **Crosscope Dev**
 
