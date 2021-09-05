@@ -4,9 +4,9 @@
 
 <h3 align="left">A passionate web developer</h3>
 
-- 🔭 I’m currently working on **Crosscope Dev**
+- 🔭 I’m currently working on **Homejam**
 
-- 🌱 I’m currently learning **Everything🤣**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://farhad-portfolio.web.app/](https://farhad-portfolio.web.app/)
 
