@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://fhossain389.medium.com/](https://fhossain389.medium.com/)
 
-- 💬 Ask me about **Typescript, React, React Query, React Table, StorybookJavaScript,ES6,redux,python,bootstrap,html,css**
+- 💬 Ask me about **Typescript,React,React Query,React Table,React storybook,JavaScript,ES6,redux,Tailwind, Material Ui,bootstrap,html,css**
 
 - 📫 How to reach me **https://farhad-portfolio.web.app/contact**
 
