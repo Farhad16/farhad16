@@ -4,15 +4,13 @@
 
 <h3 align="left">A passionate web developer</h3>
 
-- 🔭 I’m currently working on **Homejam**
-
-- 🌱 I’m currently learning **TypeScript**
+- 🔭 I’m currently working on **Versai**
 
 - 👨‍💻 All of my projects are available at [https://farhad-portfolio.web.app/](https://farhad-portfolio.web.app/)
 
 - 📝 I regularly write articles on [https://fhossain389.medium.com/](https://fhossain389.medium.com/)
 
-- 💬 Ask me about **React,JavaScript,ES6,redux,python,bootstrap,html,css**
+- 💬 Ask me about **Typescript, React, React Query, React Table, StorybookJavaScript,ES6,redux,python,bootstrap,html,css**
 
 - 📫 How to reach me **https://farhad-portfolio.web.app/contact**
 
