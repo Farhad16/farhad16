@@ -13,8 +13,7 @@
 - 💬 Ask me about **Typescript,React,React Query,React Table,React storybook,JavaScript,ES6,redux,Tailwind, Material Ui,bootstrap,html,css**
 
 - 📫 How to reach me **https://farhad-portfolio.web.app/contact**
-
-![Profile views](https://gpvc.arturio.dev/farhad16)  
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
