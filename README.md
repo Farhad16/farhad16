@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **Versai**
 
-- 👨‍💻 All of my projects are available at [https://farhad-portfolio.web.app/](https://farhad-portfolio.web.app/)
+- 👨‍💻 All of my projects are available at [https://farhad-portfolio.vercel.app/](https://farhad-portfolio.vercel.app/])
 
 - 📝 I regularly write articles on [https://fhossain389.medium.com/](https://fhossain389.medium.com/)
 
-- 💬 Ask me about **Typescript,React,React Query,React Table,React storybook,JavaScript,ES6,redux,Tailwind, Material Ui,bootstrap,html,css**
+- 💬 Ask me about **Typescript, Nextjs, React, React Query, React Table, React storybook, JavaScript, ES6, Redux, Tailwind, Material Ui, bootstrap**
 
-- 📫 How to reach me **Please visit the URL [["Farhad-portfolio.web.app/contact](https://farhad-portfolio.vercel.app/)] to access contact information.**
+- 📫 How to reach me **Here is my email: farhadswe35@gmail.com**
  
 
 <h3 align="left">Connect with me:</h3>
@@ -27,10 +27,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhad16)]
 
-[![Farhad's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/farhad16)](https://git.io/awesome-stats-card)
+[![Farhad's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Farhad16&theme=dark&cardType=github)](https://git.io/awesome-stats-card)
 
 ![GitHub metrics](https://metrics.lecoq.io/farhad16)  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Farhad16)](https://git.io/streak-stats) 
 
 
