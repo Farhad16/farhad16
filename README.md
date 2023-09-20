@@ -27,7 +27,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhad16)]
 
-[![Farhad's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Farhad16&theme=dark&cardType=github)](https://git.io/awesome-stats-card)
+[![Farhad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhad16)](https://github.com/farhad16)
 
 ![GitHub metrics](https://metrics.lecoq.io/farhad16)  
 
