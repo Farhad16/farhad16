@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Typescript,React,React Query,React Table,React storybook,JavaScript,ES6,redux,Tailwind, Material Ui,bootstrap,html,css**
 
-- 📫 How to reach me **https://farhad-portfolio.web.app/contact**
+- 📫 How to reach me **Please visit the URL [["Farhad-portfolio.web.app/contact](https://farhad-portfolio.vercel.app/)] to access contact information.**
  
 
 <h3 align="left">Connect with me:</h3>
@@ -27,10 +27,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhad16)]
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=farhad16&show_icons=true&count_private=true)  
+[![Farhad's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/farhad16)](https://git.io/awesome-stats-card)
 
 ![GitHub metrics](https://metrics.lecoq.io/farhad16)  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Farhad16)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Farhad16)](https://git.io/streak-stats) 
 
 
