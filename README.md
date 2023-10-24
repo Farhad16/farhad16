@@ -17,6 +17,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0081CB?style=flat-square&logo=cplusplus&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-0081CB?style=flat-square&logo=mongodb&logoColor=61DAFB)
 
 I bring expertise in React.js, Next.js, TypeScript, TailwindCSS, Material UI, and Node.js. My dedication to code reusability and unwavering commitment to lifelong learning are the driving forces behind my work.
 Currently, **I'm open to work and employment opportunities**.
