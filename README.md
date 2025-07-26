@@ -17,7 +17,7 @@ I specialize in:
 - 📈 Strong focus on **performance**, **test coverage**, and **code reusability**
 
 I’m always exploring new tech and refining my skills.  
-Currently, I'm working on **survey analytics and dashboard UI** and **UI library**[**Wick-ui**](https://wick-ui-lib.pages.dev/) at [**QuestionPro**](https://www.questionpro.com/) (R&D team), and I’m open to **remote** or **relocation** opportunities!
+Currently, I'm working on **survey analytics and dashboard UI** and **UI library** [**Wick-ui**](https://wick-ui-lib.pages.dev/) at [**QuestionPro**](https://www.questionpro.com/) (R&D team), and I’m open to **remote** or **relocation** opportunities!
 
 ---
 
