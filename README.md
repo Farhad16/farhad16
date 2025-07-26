@@ -17,16 +17,15 @@ I specialize in:
 - 📈 Strong focus on **performance**, **test coverage**, and **code reusability**
 
 I’m always exploring new tech and refining my skills.  
-Currently, I'm working on **survey analytics and dashboard UI** at [**QuestionPro**](https://www.questionpro.com/) (R&D team), and I’m open to **remote** or **relocation** opportunities!
+Currently, I'm working on **survey analytics and dashboard UI** and **UI library**[**Wick-ui**](https://wick-ui-lib.pages.dev/) at [**QuestionPro**](https://www.questionpro.com/) (R&D team), and I’m open to **remote** or **relocation** opportunities!
 
 ---
 
 ### 🚀 What I'm Working On
 
-- 🔭 High-performance dashboards with **React Grid Layout**, **Highcharts**, and **React Query**
-- 🔁 Building a custom **React component library** with reusable hooks and UI components
+- 🔭 High-performance dashboards with **React Grid Layout**, **Highcharts**, **AmChart** and **React Query**
+- 🔁 Building a custom **React component library** with reusable hooks and UI components using **React storybook**
 - 🧪 Writing unit & E2E tests with **Vitest**, **MSW**, and **Playwright**
-- 🔧 Migrating CRA projects to **Vite** for blazing fast dev experience
 
 ---
 
@@ -76,7 +75,6 @@ Currently, I'm working on **survey analytics and dashboard UI** at [**QuestionPr
 - 💡 I believe in writing **clean, testable, and scalable** code.
 - 🧪 I enjoy building tools, debugging, and exploring new frontend frameworks.
 - 🌍 I have **3+ years of remote work experience**, collaborating across global teams.
-- 🛠️ I'm actively exploring **passive income ideas** using my React expertise.
 
 ---
 
